@@ -70,7 +70,7 @@ class TestWin(QWidget):
         self.setLayout(self.h_line)
 
     def connects(self):
-        self.botton_next.clicked.connect(self.next_click)
+        next
 
 
 
